@@ -31,6 +31,6 @@ learned during training.
 * **TensorFlow** ([instructions](https://www.tensorflow.org/versions/master/get_started/os_setup.html)).
 * **NumPy** ([instructions](http://www.scipy.org/install.html)).
 * **Natural Language Toolkit (NLTK)**:(http://www.nltk.org/data.html) 
-Dataset:
+### Dataset:
 MSCOCO
 (http://mscoco.org/) 
